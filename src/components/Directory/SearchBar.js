@@ -10,6 +10,9 @@ export default function SearchBar(props) {
 				<button className="Form-BTN" onClick={props.handleFormSubmit}>
 					Search
 				</button>
+				<button className="Form-BTN FBN-BTN" onClick={props.handleFormSubmit}>
+					Filter By First Name
+				</button>
 			</div>
 		</form>
 	);
