@@ -1,0 +1,67 @@
+.Search-Result-Container {
+	font-family: 'Michroma', sans-serif;
+	background-color: #343a3f;
+	border: 1px solid greenyellow;
+	color: greenyellow;
+	width: 100%;
+	height: 90vh;
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+
+.Card-Container {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr));
+	grid-auto-rows: auto;
+	grid-gap: 1rem;
+}
+.Employee-Card {
+	font-family: 'Michroma', sans-serif;
+	background-color: #343a3f;
+	border: 1px solid greenyellow;
+	color: greenyellow;
+
+	width: 18rem;
+	margin-top: 0.5rem;
+}
+
+.Card-Text {
+	font-size: 18px;
+}
+
+.IMG-Card-Col {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 0.5rem;
+}
+
+.IMG-Card {
+	margin: 0;
+	border: 1px solid greenyellow;
+	height: 150px;
+}
+
+/* Search Bar CSS */
+
+.Search-Bar-Div {
+	border: 1px solid greenyellow;
+}
+
+.Search-Bar-Div {
+	padding-left: 20px;
+}
+
+.Form-Input {
+	margin-left: 20px;
+	margin-top: 5px;
+	background-color: #343a3f;
+	color: greenyellow;
+}
+
+.Form-BTN {
+	background-color: #343a3f;
+	color: greenyellow;
+	border: 1px solid greenyellow;
+	margin-left: 5px;
+}
