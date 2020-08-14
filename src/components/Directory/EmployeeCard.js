@@ -6,7 +6,7 @@ import './Directory.css';
 export default function EmployeeCard(props) {
 	return (
 		<>
-			{props.results.map((result) => (
+			{props.filteredResults.map((result) => (
 				<Card className="Employee-Card" key={result.login.uuid}>
 					<Row>
 						<Col className="IMG-Card-Col">
