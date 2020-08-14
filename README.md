@@ -30,7 +30,7 @@ Lastly, I added a search bar and age ordering functionality to meet the requirem
 
 ## Deployed
 
-You can access the delployed version of this application via the URL: [https://damp-depths-86491.herokuapp.com/](https://damp-depths-86491.herokuapp.com/)
+You can access the delployed version of this application via the URL: [https://thawing-fjord-36936.herokuapp.com/](https://thawing-fjord-36936.herokuapp.com/)
 
 ## Installation
 
